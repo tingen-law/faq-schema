@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ADD THE QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ADD THE ANSWER HERE"
+    }
+  }]
+}
+</script>

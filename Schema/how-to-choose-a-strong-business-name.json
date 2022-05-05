@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What letters, marks, and other characters can I include in my entity name?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In Virginia, your entity name must be written in English letters and Arabic (“123”) or Roman (“MMXXII”) numbers. It may also include certain common characters such as periods, commas, colons, apostrophes, parentheses, dashes, question marks, exclamation points, and certain other characters such as @, #, $, %, &, and *. For a full list of acceptable letters, please see the Virginia SCC’s Business Entity Names FAQ page."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Are any words or abbreviations required for my entity name?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Generally, these required words or abbreviations serve to denote your business’s entity type. For example, LLCs registered in Virginia must include the words “limited company,” “limited liability company,” or some abbreviation of these words such as “LC” or “LLC.” Similarly, corporations must include the words “corporation,” “incorporated,” “Inc.,” “Corp.,” or some other accepted denotation that the entity is a corporation. Note that certain professional businesses (such as law firms or CPAs) are required to denote their professional status in their entity name as well. For example, as a law firm, our official entity name is “Tingen Law, PLLC” which denotes our “professional limited liability company” designation."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What is a fictitious name?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A fictitious name is an assumed name that your business can legally operate under instead of their formal entity name. Specifically, you can perform most of the actions you would normally do with your formal entity name with a fictitious name instead, such as drafting and signing contracts, opening bank accounts, etc."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Are there any restrictions on words that can be included in my entity name?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. There are a number of restrictions on the words you can use in your entity name. As a few of the most common: (1) you cannot include words that state or imply your business uses a different legal structure (e.g. a LLC cannot use the word “incorporated” in its name), (2) you cannot include words that imply you will be conducting business as a bank, trust company, insurance company, or other restricted company unless you will actually be engaged in (and regulated by) business of that nature, and (3) you cannot use words such as “United States,” “national,” “Federal,” or “reserve” in your business’s name if your business is in any way related to financial products or services. Finally, while not a restriction placed by the government, it’s generally not wise to include the name of another business or entity in your business name due to the numerous legal complications this can cause. As a common example, imagine for a moment that you open a bookstore next to a college, such as the University of Virginia. In this example, it’s not a good idea to name your business entity “The University of Virginia Bookstore” because (1) this would infringe on the intellectual property rights of the University and they would likely sue you, and (2) the name is not distinct enough to gain any legal protections should you even successfully register it in the first place. While it may sound silly at first, this is a surprisingly common problem for “derivative” brands that provide goods or services targeted at another brand’s customers or audience."
+    }
+  }]
+}
+</script>
