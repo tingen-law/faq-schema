@@ -1,0 +1,49 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Is there a filing fee to close a business in Virginia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. The filing fee to close a Virginia LLC is $25, and the filing fees for closing other legal entities generally fall somewhere close to this value."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do I need to hire an attorney or an accountant to help me close my business?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For sole proprietorships and other simple business entities (or businesses that have yet to do business), the answer is generally no, as the limited number of assets to divide (and creditors to account for) makes the process relatively simple. In almost every other case, it’s generally wise to at least speak with an attorney and/or an accountant to make sure you’re making the best decision for your specific situation. Because of the significant risks involved (generally in regards to unpaid creditors) it’s smart to take the time to close your business the right way rather than having to face the risk of litigation down the road."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What does it mean to “wind up” my business’s operations?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "“Winding up” a business is generally defined as a shift in the business’s purpose from “making money” to “paying off creditors and distributing assets.” Put another way, winding up a business refers to the transitional phase between when the business decides to close its doors and when it formally finishes distributing all of its assets to creditors and other interested parties. The term is synonymous with “liquidating” a business, which means that all of the business’s assets are converted to cash as a way of paying off any and all liabilities and paying out any remaining equity the owners might have in the business."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How long does it take to close my business?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally speaking, it will take you roughly one to two weeks plus the time it takes to wind up your business’s operations. Or, put another way, the time it takes to close your business will generally be either (1) how long it takes to pay off any creditors and cease operations, or (2) an amount of time no less than 120 days, due to the “known claims” requirement for notice given to creditors, as outlined in the Virginia Code."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How long do I have before someone can use my former business name?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Any other person or entity can file to claim your former business name from the moment the Virginia SCC accepts your articles of cancellation. Note, however, that if you filed for a trademark using your prior business name those protections may still apply."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What happens if I don’t formally dissolve my business with the SCC?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "All Virginia businesses must file an annual report and pay a fee to renew their business registration with the Virginia SCC. If a business fails to file their annual report, it will no longer be in good standing with the SCC. Four months after being designated as such, the SCC will automatically revoke the corporation’s certificate of authenticity and formally consider the business to be abandoned and dissolved. Note, however, that there is a difference between formal registration with the SCC and the various obligations and liabilities owed by the business (and its owners) to creditors and other institutions. While the SCC may formally revoke your business’s registration, the various banks and other creditors that your business owes money to will still likely hold your business (and, potentially, you) liable for any outstanding debts."
+    }
+  }]
+}
+</script>
